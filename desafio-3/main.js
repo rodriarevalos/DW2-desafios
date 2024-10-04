@@ -13,6 +13,6 @@ if (CantidadDeseada >= 5){
 
 } else{
     CostoTotal = CantidadDeseada * PrecioUnitario;
+    alert("El costo total de su compra es: $" + CostoTotal);
 }
 
-alert("El costo total de su compra es: $" + CostoTotal);
