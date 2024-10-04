@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(235, 130, 101);
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
