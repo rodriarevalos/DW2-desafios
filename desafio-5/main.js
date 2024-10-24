@@ -1,7 +1,7 @@
 //array de productos 
 const producto = ["camiseta","zapatilla", "gorra"];
 const productoPrecio= [15,40,10];
-const productoStock = [5,6,9];
+let productoStock = [5,6,9];
 
 console.log("productos disponibles:");
 for (let i = 0; i<producto.length; i++) {
