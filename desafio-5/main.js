@@ -26,5 +26,4 @@ console.log("nuevo stock:");
 
 for (let i = 0; i < producto.length; i++) {
     console.log(`${producto[i]} \nNuevo stock: ${productoStock[i]}`);
-}
-
+};
